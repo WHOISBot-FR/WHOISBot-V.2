@@ -6,3 +6,4 @@ asyncio
 psutil
 scapy
 requests
+colorama
